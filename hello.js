@@ -1,3 +1,3 @@
-const hello = () => "Hello World from usa!!";
+const hello = () => "Hello World from USA!!";
 console.log(hello());
 exports.hello = hello;
